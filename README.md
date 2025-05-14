@@ -1,6 +1,6 @@
 # Brevio - YouTube Video Özetleme Platformu
 
-![Brevio Landing](public/readme.png)
+![Brevio Landing](frontend/Brevio/public/readme.png)
 
 Brevio, YouTube videolarını otomatik olarak özetleyen, Türkçe ve İngilizce destekli bir web uygulamasıdır. Google'ın Gemini AI ve Speech-to-Text teknolojilerini kullanarak videoları metne çevirir ve özetler.
 
@@ -105,7 +105,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 👥 İletişim
 
-Proje Sahibi - [@yourusername](https://github.com/ichikapaull)
+Proje Sahibi - [@ichikapaull](https://github.com/ichikapaull)
 
 Proje Linki: [https://github.com/yourusername/brevio](https://github.com/ichikapaullbrevio)
 
