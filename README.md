@@ -107,7 +107,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 Proje Sahibi - [@ichikapaull](https://github.com/ichikapaull)
 
-Proje Linki: [https://github.com/yourusername/brevio](https://github.com/ichikapaullbrevio)
+Proje Linki: [https://github.com/ichikapaull/brevio](https://github.com/ichikapaullbrevio)
 
 ## 🙏 Teşekkürler
 
